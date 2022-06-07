@@ -21,19 +21,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATM", "ATM\ATM.csproj", "{1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volume_control", "Volume_control\Volume_control.csproj", "{862361BA-21E4-4FEA-A8E2-EBD1C0C877AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinNumbersOfCoins", "MinNumbersOfCoins\MinNumbersOfCoins.csproj", "{D094F786-976C-4A8E-8D8A-8D07225D9C0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinNumbersOfCoins", "MinNumbersOfCoins\MinNumbersOfCoins.csproj", "{D094F786-976C-4A8E-8D8A-8D07225D9C0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassOrFail", "PassOrFail\PassOrFail.csproj", "{D50A89AF-E784-4B10-873A-A41A54F4547D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassOrFail", "PassOrFail\PassOrFail.csproj", "{D50A89AF-E784-4B10-873A-A41A54F4547D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TooManyItems", "TooManyItems\TooManyItems.csproj", "{3A737B58-3BD2-4059-8BA4-9F569131401F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TooManyItems", "TooManyItems\TooManyItems.csproj", "{3A737B58-3BD2-4059-8BA4-9F569131401F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyFour", "LuckyFour\LuckyFour.csproj", "{F949430A-3D8B-4E73-980C-6603B773C49D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LuckyFour", "LuckyFour\LuckyFour.csproj", "{F949430A-3D8B-4E73-980C-6603B773C49D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondLargesNumber", "SecondLargesNumber\SecondLargesNumber.csproj", "{E2EF27C9-A91F-4833-8503-3EE1C02E7BCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecondLargesNumber", "SecondLargesNumber\SecondLargesNumber.csproj", "{E2EF27C9-A91F-4833-8503-3EE1C02E7BCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOrDifference", "SumOrDifference\SumOrDifference.csproj", "{4F0388FC-0214-4D60-9013-FABEF2011D3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOrDifference", "SumOrDifference\SumOrDifference.csproj", "{4F0388FC-0214-4D60-9013-FABEF2011D3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brute-Force", "Brute-Force\Brute-Force.csproj", "{4A1584AC-0B7B-4A38-8EC6-013F822809F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Brute-Force", "Brute-Force\Brute-Force.csproj", "{4A1584AC-0B7B-4A38-8EC6-013F822809F6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheLeadGame", "TheLeadGame\TheLeadGame.csproj", "{F67A073D-C1CA-4396-8CD8-F1FF5E2978D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BodyMassIndex", "BodyMassIndex\BodyMassIndex.csproj", "{CAD7119B-4FB0-4C89-9F0F-55C20C6DA587}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{4A1584AC-0B7B-4A38-8EC6-013F822809F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A1584AC-0B7B-4A38-8EC6-013F822809F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A1584AC-0B7B-4A38-8EC6-013F822809F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67A073D-C1CA-4396-8CD8-F1FF5E2978D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67A073D-C1CA-4396-8CD8-F1FF5E2978D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67A073D-C1CA-4396-8CD8-F1FF5E2978D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67A073D-C1CA-4396-8CD8-F1FF5E2978D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD7119B-4FB0-4C89-9F0F-55C20C6DA587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD7119B-4FB0-4C89-9F0F-55C20C6DA587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD7119B-4FB0-4C89-9F0F-55C20C6DA587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD7119B-4FB0-4C89-9F0F-55C20C6DA587}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
