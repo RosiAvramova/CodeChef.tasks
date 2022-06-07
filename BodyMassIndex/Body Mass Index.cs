@@ -7,7 +7,8 @@ namespace BodyMassIndex
         static void Main(string[] args)
         {
             int testCases = int.Parse(Console.ReadLine());
-                string[] result = new string[testCases];
+            string[] result = new string[testCases];
+            
             for (int i = 0; i < testCases; i++)
             {
                 string[] input = Console.ReadLine().Split(' ');
